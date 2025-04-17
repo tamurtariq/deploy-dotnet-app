@@ -25,7 +25,7 @@ Root access or a user with sudo privileges
 
 A domain name (optional but recommended)
 
-## 🧠 How It Works (For Beginners)
+# 🧠 How It Works (For Beginners)
 You don’t need to be a .NET or Linux expert to use this!
 
 ## Steps Overview:
